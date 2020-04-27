@@ -5,3 +5,6 @@
         of the file yet. Next step is commit.
 -commit -- commits the file from staging area.
 
+-add the remote repo -- git remote add origin https://github.com/Ravikiran0405/2020-04-27-Ravi.git
+-push -- git push origin master
+
